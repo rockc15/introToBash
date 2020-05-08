@@ -16,7 +16,7 @@ directory given as an argument, with a blank
 line then the name of the directory followed
 by a : before the list of files in that directory.
 
-ls-la: list all the files including hidden files in the
+ls -la: list all the files including hidden files in the
 current working directory :)
 
 pid - prints the pid of the shell
