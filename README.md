@@ -69,13 +69,16 @@ Steps <br>
 **Commands learned in this lesson**
 
 ```
-echo - 
+echo - displays a line of text/string that is passed as an argument 
 
-rm - 
+rm -  removes objects such as files or directories
 
-grep - 
+grep - searches a file for a particular string, and displays all lines that contain that string
 
-cat - 
+cat - reads and displays the contents of a file
 
-clear -
+clear - clears the terminal screen of text
 ```
+
+Steps <br>
+1. 
